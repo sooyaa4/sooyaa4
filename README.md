@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Habibullah Tedy Sulistyo Putra as @sooyaa4 
 - 👀 I’m interested in Backend developer and Mobile developer
-- 🌱 I’m currently learning Laravel Framework, Go Language and Flutter 
-- 📫 How to reach me, you can email to bullahhabib10@gmail.com or find my LinkedIn.
+- 🌱 I’m currently learning Laravel Framework, Go Language, Vue Js and Flutter 
+- 📫 How to reach me, you can email to bullahhabib10@gmail.com or find my LinkedIn https://www.linkedin.com/in/habibullah-tedy-sulistyo-putra/.
 - You can look my porto in https://app.habibullah15.com/
 - Thank's for coming.
 
